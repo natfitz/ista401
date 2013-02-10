@@ -1,0 +1,7 @@
+Noun:race,passion,vigor,ardor,men,question,all,madness,intelligence,disease,thought,moods,mind,expense,intellect,day,things,night,visions,glimpses,eternity,secret,snatches,verge,wisdom,knowledge,evil,ocean,light,adventures,geographer,conditions,existence,condition,reason,belonging,memory,events,epoch,life,shadow,doubt,present,era,being,period,time,credit,riddle,Oedipus,I,me,they,who,those,their,something,we,what,it
+Adjective:fancy,mad,loftiest,much,glorious,all,profound,exalted,general,cognizant,many,only,gray,great,good,more,mere,rudderless,compassless,vast,ineffable,nubian,least,two,distinct,mental,lucid,first,second,earlier,later,such,its
+Verb:am,come,noted,have,called,is,settled,does,spring,dream,are,escape,obtain,thrill,awakening,find,been,learn,penetrate,like,say,will,grant,disputed,forming,appertaining,recollection,constitutes,shall,tell,believe,relate,may,give,seem,due,doubt,play
+Adverb:yet,not,again,there,therefore,as,altogether,then
+Preposition:of,for,but,or,from,by,in,upon,at,unto
+Article:a,the,that
+Conjunction:and,whether,if
